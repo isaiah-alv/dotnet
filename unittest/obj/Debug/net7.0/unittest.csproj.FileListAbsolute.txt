@@ -1,0 +1,6 @@
+C:\dotnet\unittest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\dotnet\unittest\obj\Debug\net7.0\unittest.csproj.AssemblyReference.cache
+C:\dotnet\unittest\obj\Debug\net7.0\unittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\unittest\obj\Debug\net7.0\unittest.AssemblyInfoInputs.cache
+C:\dotnet\unittest\obj\Debug\net7.0\unittest.AssemblyInfo.cs
+C:\dotnet\unittest\obj\Debug\net7.0\unittest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.csproj.AssemblyReference.cache
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.AssemblyInfoInputs.cache
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.AssemblyInfo.cs
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.csproj.CoreCompileInputs.cache
+C:\dotnet\unittest\PowerLibrary\bin\Debug\net7.0\PowerLibrary.deps.json
+C:\dotnet\unittest\PowerLibrary\bin\Debug\net7.0\PowerLibrary.dll
+C:\dotnet\unittest\PowerLibrary\bin\Debug\net7.0\PowerLibrary.pdb
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.dll
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\refint\PowerLibrary.dll
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\PowerLibrary.pdb
+C:\dotnet\unittest\PowerLibrary\obj\Debug\net7.0\ref\PowerLibrary.dll
